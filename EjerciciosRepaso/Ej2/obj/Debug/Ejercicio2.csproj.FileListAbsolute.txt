@@ -1,0 +1,6 @@
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\bin\Debug\Ej2.exe.config
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\bin\Debug\Ej2.exe
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\bin\Debug\Ej2.pdb
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\obj\Debug\Ej2.exe
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\Ej2\obj\Debug\Ej2.pdb
