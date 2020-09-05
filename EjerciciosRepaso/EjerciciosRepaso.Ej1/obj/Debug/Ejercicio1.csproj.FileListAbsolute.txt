@@ -1,0 +1,7 @@
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\bin\Debug\EjerciciosRepaso.Ej1.exe.config
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\bin\Debug\EjerciciosRepaso.Ej1.exe
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\bin\Debug\EjerciciosRepaso.Ej1.pdb
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\obj\Debug\EjerciciosRepaso.Ej1.exe
+C:\Users\elabendz\Documents\Eitan\UBA\CAI\EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.Ej1\obj\Debug\EjerciciosRepaso.Ej1.pdb

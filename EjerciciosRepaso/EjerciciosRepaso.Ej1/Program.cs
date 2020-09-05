@@ -10,6 +10,25 @@ namespace EjerciciosRepaso.Ej1
     {
         static void Main(string[] args)
         {
+            int regNumber = 864;
+            for (int i = 1; i <= regNumber; i++)
+            {
+                switch (i)
+                {
+                    case var n when i % 3 == 0 & i % 5 == 0:
+                        Console.WriteLine(i + " - FooBar");
+                        break;
+                    case var n when i % 3 == 0:
+                        Console.WriteLine(i + " - Foo");
+                        break;
+                    case var n when i % 5 == 0:
+                        Console.WriteLine(i + " - Bar");
+                        break;
+                    default:
+                        Console.WriteLine(i);
+                        break;
+                }
+            }
         }
     }
 }
