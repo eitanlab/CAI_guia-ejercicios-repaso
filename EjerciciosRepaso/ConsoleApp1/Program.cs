@@ -10,18 +10,27 @@ namespace Ejercicio3
     {
         static void Main(string[] args)
         {
-            string word = "anana";
+            string word = "";
             string invertedWord = "";
-            for(int i = word.Length - 1; i >= 0; i--)
+            Console.Write("Ingresá la palabra:");
+            word = Console.ReadLine();
+            if (word != "")
             {
-                invertedWord += word[i];
-            }
-            if (invertedWord == word)
-            {
-                Console.WriteLine(word + " es palíndromo");
+                for (int i = word.Length - 1; i >= 0; i--)
+                {
+                    invertedWord += word[i];
+                }
+                if (invertedWord == word)
+                {
+                    Console.WriteLine(word + " es palíndromo");
+                }
+                else
+                {
+                    Console.WriteLine(word + " no es palíndromo");
+                }
             } else
             {
-                Console.WriteLine(word + " no es palíndromo");
+                Console.WriteLine("no se ha ingresado una palabra a comprobar");
             }
         }
     }
