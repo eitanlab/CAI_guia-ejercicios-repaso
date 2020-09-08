@@ -10,7 +10,7 @@ namespace Ejercicio3
     {
         static void Main(string[] args)
         {
-            string word = "";
+            string word;
             string invertedWord = "";
             Console.Write("Ingresá la palabra:");
             word = Console.ReadLine();
